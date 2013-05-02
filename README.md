@@ -8,6 +8,7 @@ for organize your menu bar apps.
 ```puppet
 include bartender
 ```
+[![Build Status](https://travis-ci.org/erichkist/puppet-bartender.png)](https://travis-ci.org/erichkist/puppet-bartender)
 
 ## Required Puppet Modules
 
